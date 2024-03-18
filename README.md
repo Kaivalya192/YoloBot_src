@@ -5,7 +5,7 @@ This repository contains the YoloBot_src ROS2 package, which subscribes to the `
 
 [Watch the video](https://www.youtube.com/watch?v=u3AINTM3tSE)
 
-Click the image above to watch the video demonstration of the project.
+Click above to watch the video demonstration of the project.
 ## Dependencies
 
 This package depends on the `bot_spawn` ROS2 package, which can be found at [https://github.com/Kaivalya192/bot_spawn](https://github.com/Kaivalya192/bot_spawn). Make sure to clone and install the `bot_spawn` package before using YoloBot_src.
