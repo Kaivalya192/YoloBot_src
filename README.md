@@ -24,7 +24,7 @@ Create a workspace folder named `ros2_ws`.
 Clone this repository into the `src` folder of your ROS2 workspace (`ros2_ws/src/`).
 
 ```bash
-git clone <repository_URL> YoloBot_src
+git clone https://github.com/Kaivalya192/YoloBot_src.git
 ```
 ## Build
 
